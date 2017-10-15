@@ -47,6 +47,8 @@ body {
 .main {
   position:relative;
   top: 69px;
+  width: 1200px;
+  margin: 0 auto;
 }
 .mission {
   background-color:black;
@@ -94,6 +96,9 @@ body {
   padding: 0;
 }
 footer {
+  position: relative;
+  top: 69px;
+  left: 20px;
   text-align:left;
 }
 .contact {
