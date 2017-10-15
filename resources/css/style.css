@@ -5,6 +5,7 @@ body {
   color:seashell;
   opacity:0.9;
   text-align: center;
+  margin: 0px;
 }
 .logo {
   margin-left: 10px;
@@ -16,8 +17,6 @@ body {
   display: flex;
   flex-wrap: wrap;
   position: fixed;
-  top: 0px;
-  left: 0px;
   border-bottom: solid 1px seashell;
   width: 100%;
   z-index: 5;
@@ -47,7 +46,7 @@ body {
 }
 .main {
   position:relative;
-  top: 69px;
+  top: 70px;
   width: 1200px;
   margin: 0 auto;
 }
@@ -98,7 +97,7 @@ body {
 }
 footer {
   position: relative;
-  top: 69px;
+  top: 70px;
   left: 20px;
   text-align:left;
 }
